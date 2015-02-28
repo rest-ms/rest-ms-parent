@@ -1,0 +1,7 @@
+#git remote add s3 amazon-s3://.jgit_s3@git.siletto.it/economy2/market-model
+#git remote add s3 amazon-s3://.jgit_s3@git.siletto.it/economy2/registry-model
+#
+#
+git remote add s3 amazon-s3://.jgit_s3@git.siletto.it/economy2/currency-model
+git remote add s3 amazon-s3://.jgit_s3@git.siletto.it/economy2/currency-client
+git remote add s3 amazon-s3://.jgit_s3@git.siletto.it/economy2/currency-service
